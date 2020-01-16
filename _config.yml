@@ -23,7 +23,7 @@ projects:
   limit: 9
   exclude:
     forks: true
-    projects:
+    projects: angular-tour-of-heroes,  alura, angular-firebase-crud
     # - repo-name
 
 #social_media:
